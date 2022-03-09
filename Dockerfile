@@ -8,6 +8,7 @@ RUN echo -e "http://nl.alpinelinux.org/alpine/edge/testing\nhttp://dl-cdn.alpine
 	cups-client \
 	cups-filters \
 	cups-dev \
+	cups-backend-bjnp \
 	gutenprint \
 	gutenprint-libs \
 	gutenprint-doc \
